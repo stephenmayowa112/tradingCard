@@ -1,0 +1,51 @@
+ .box{
+    border: 3px solid;
+    text-align: center; 
+    width: 612px;  
+    height: 740px; 
+    margin: 50px auto;
+}
+img{
+    size: 50%;
+}
+
+  
+   
+  h1 {
+    text-align: center; 
+    font-size: 25px; 
+    margin: 10px 0;
+    text-transform: uppercase;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+ 
+
+ h2 {
+    text-align: center; 
+    font-size: 20px; 
+    margin: 10px 0;
+    text-transform: uppercase; 
+    background-color: #a45f5f;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+ 
+
+ p {
+    text-align: center; 
+    font-size: 15px; 
+    text-align: center;
+}
+ }
+  
+ body{
+    background-color: rgb(239, 234, 227);
+ }
+  
+
+  
+  
